@@ -69,3 +69,23 @@ gcc bank.c -o bank
 * Built a complete **banking simulation system**
 * Strengthened problem-solving and logical thinking
 academic** (for teacher submission), or keep it **developer-friendly** (for GitHub profile)?
+
+⚠️ Limitations
+Data is stored temporarily in memory (no file handling)
+Fixed maximum number of students
+No advanced input validation
+Console-based UI only
+🚀 Future Enhancements
+Add file handling to store data permanently
+Improve input validation
+Implement sorting and filtering options
+Add login system for admin access
+Convert to dynamic memory allocation
+🎓 Academic Note
+This project was developed as part of the BCA / Programming course and is intended for educational purposes only.
+
+👨‍💻 Author
+Prasid Gautam Aspiring Software Developer
+
+📄 License
+This project is open for learning and academic use. You are free to study, modify, and enha
